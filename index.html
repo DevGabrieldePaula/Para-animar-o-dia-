@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Operação: Melhorar o Dia 💜</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <div class="card">
+
+            <div class="emoji">🩹🦶💜</div>
+
+            <h1>Operação: Melhorar o Dia</h1>
+
+            <p class="subtitle">
+                Sistema desenvolvido especialmente para uma mulher linda 
+                que teve um dia meio complicado.
+            </p>
+
+            <div class="status-box">
+
+                <p>
+                    <strong>Status atual:</strong>
+                    <span id="status">Dia ruim detectado 😔</span>
+                </p>
+
+                <div class="progress-container">
+                    <div id="progress"></div>
+                </div>
+
+                <p id="progressText">Humor: 20%</p>
+
+            </div>
+
+            <button onclick="melhorarHumor()">
+                ✨ Clique para melhorar meu dia
+            </button>
+
+            <button class="secondary" onclick="mostrarMensagem()">
+                💌 Tenho uma mensagem para você
+            </button>
+
+            <button class="secondary" onclick="surpresa()">
+                🎁 Botão de emergência
+            </button>
+
+            <div id="mensagem" class="message hidden"></div>
+
+            <div class="mini-game">
+
+                <h2>🐱 Mini missão</h2>
+
+                <p>
+                    Encontre o gatinho escondido!
+                </p>
+
+                <div class="cats">
+
+                    <span onclick="gatinho(1)">🐶</span>
+                    <span onclick="gatinho(2)">🐰</span>
+                    <span onclick="gatinho(3)">🐱</span>
+                    <span onclick="gatinho(4)">🐻</span>
+                    <span onclick="gatinho(5)">🐼</span>
+
+                </div>
+
+                <p id="gameMessage"></p>
+
+            </div>
+
+            <footer>
+                Desenvolvido com carinho ❤️
+                <br>
+                <small>Versão 1.0 — Para melhorar dias ruins</small>
+            </footer>
+
+        </div>
+
+    </div>
+
+    <div id="hearts"></div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
