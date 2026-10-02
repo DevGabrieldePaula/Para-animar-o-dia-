@@ -1,48 +1,16 @@
-const mensagemCompleta = `Sei que seu dia hoje foi corrido e provavelmente bem cansativo, mas eu não poderia deixar de te perturbar um pouquinho, né? 😂
+const mensagemCompleta = `Oi, Lari! Sei que seu dia está sendo meio corrido e que provavelmente já está chegando perto do seu horário de almoço, mas fiquei sabendo que ele não está sendo dos melhores por causa da dor do aparelho. Então decidi tentar te fazer rir um pouquinho e, de quebra, te lembrar do quão legal você é!
 
-Quero que você continue sendo essa mulher forte que você é. Sei que nem todos os dias vão ser bons, que às vezes o cansaço pesa, as coisas não saem como a gente gostaria e tudo o que queremos é simplesmente ficar quietos no nosso canto.
+Quero que você lembre sempre que o seu jeitinho é único e especial. Admito que, às vezes, eu até fico pensando: “O que caraca eu vou falar com essa mulher???” KKKKKKKK, e olha que eu sou do tipo que fala pelos cotovelos.
 
-Mas, mesmo nesses dias, quero que você saiba que não precisa passar por tudo sozinha.
+Mas falando sério, quero que você saiba que hoje você está incrivelmente linda e espero que já tenha tirado da cabeça essa ideia de que não está bonita por causa do aparelho. Você continua sendo você, e isso já é mais do que suficiente. ❤️
 
-Se em algum momento você precisar de alguém para conversar, desabafar, reclamar da vida, esquecer um pouco dos problemas ou simplesmente ter alguém do outro lado te perturbando, pode contar comigo. Dizem que eu sou um ótimo ouvinte… às vezes eu mesmo tenho minhas dúvidas, haha. 😂
+Você tem qualidades incríveis, é uma pessoa extremamente divertida e, provavelmente, todos os seus amigos agradecem por terem você na vida deles. :)
 
-Mas vou estar aqui para te ouvir, mesmo quando você não souber exatamente o que dizer.
+Então continue sendo essa menina agradável, gentil e, principalmente, sorridente, porque esse sorriso é uma das coisas mais bonitas que eu poderia ver hoje.
 
-Continue sorrindo e sendo essa mulher doce, gentil e especial que você é. Talvez você nem perceba, mas esse seu jeito de ser é algo muito bonito e que merece ser preservado.
+E eu não quero ninguém triste não, hein... Porque se eu for para Teresina City, quero poder te fazer rir com as minhas piadas ruins KKKKKKKKK. Então trata de continuar sorrindo, porque eu preciso de uma plateia para as minhas piadas ruins.
 
-E pode ter certeza de que você continua nas minhas orações, para que esse pé melhore logo e você possa voltar a ficar 100%. 🙏🏻🤍
-
-Até porque eu ainda não desisti da missão de perturbar a Letícia Martins todos os dias. 😂 Então você vai ter que me aguentar por bastante tempo ainda.
-
-Mas, brincadeiras à parte, conta comigo para o que precisar, Lê. De verdade.
-
-Se um dia precisar me ligar de madrugada, pode ligar.
-
-Se quiser conversar, eu converso.
-Se quiser reclamar, eu escuto.
-Se quiser esquecer tudo por algumas horas, me chama para jogar um UNO. 😂
-
-Às vezes nem precisamos resolver nada. Basta ter alguém por perto.
-
-E quero que você tenha certeza de uma coisa:
-
-Onde quer que a Letícia Martins esteja, se eu puder estar lá para ajudar, eu vou estar.
-
-Não importa se for em um dia bom ou em um daqueles dias em que tudo parece dar errado.
-
-Você não precisa enfrentar tudo sozinha. 🤍
-
-Espero que você consiga descansar hoje e que amanhã seja um dia muito mais leve.
-
-Mas, se amanhã não for, tudo bem também.
-
-Você já sabe que pode me perturbar, porque eu vou continuar aqui para te perturbar de volta. 😂🤍
-
-Cuida desse pé, descansa bastante e não esquece de sorrir.
-
-E, principalmente, nunca esquece que você tem alguém aqui torcendo de verdade para que tudo fique bem.
-
-Agora melhora logo esse pé, porque eu ainda tenho muitos dias de perturbação pela frente. 😂💜`;
+E, por favor, não deixa um aparelho te convencer do contrário. Você continua linda. ❤️`;
 
 function mostrarMensagem() {
 
